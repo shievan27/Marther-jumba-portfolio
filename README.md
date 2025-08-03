@@ -3,7 +3,7 @@ Welcome to the source code of my personal portfolio website, crafted using **HTM
 This site showcases my professional background, skills, education, interests, and provides a way to get in touch with me.
 
 You can view this website in your browser using this link
-https://shievan27.github.io/marther-jumba-portfolio/
+(https://shievan27.github.io/Marther-jumba-portfolio/)
 
 
 ##  Features
@@ -26,12 +26,6 @@ https://shievan27.github.io/marther-jumba-portfolio/
 - Responsive layout with basic mobile support
 - google fonts
 
-  project-folder/
-├── index.html # Main HTML file
-├── styles.css # Custom CSS styles
-├── profile.png # Profile picture
-├── avatar.png # Image used in interests section
-├── marther jumba resume.docx # Downloadable CV
-
+ 
 
 
